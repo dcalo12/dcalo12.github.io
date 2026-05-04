@@ -1,18 +1,6 @@
 layout: spec
 title: "Personal Project: Josephus Problem"
 permalink: /https://dcalo12.github.io/josephus
-remote_theme: eecs485staff/primer-spec
-plugins:
-  - jekyll-remote-theme
-  - jekyll-optional-front-matter
-  - jekyll-readme-index
-  - jekyll-relative-links
-  - jemoji
-kramdown:
-  input: GFM
-readme_index:
-  remove_originals: true
-  with_frontmatter: true
 
 # Personal Project: Josephus Problem
 
