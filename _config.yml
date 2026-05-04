@@ -2,8 +2,6 @@
 layout: spec
 ---
 
-title: Dante Calo's homepage
-description: Bookmark this to keep an eye on my project updates!
 remote_theme: eecs485staff/primer-spec
 plugins:
   - jekyll-remote-theme
@@ -16,3 +14,6 @@ kramdown:
 readme_index:
   remove_originals: true
   with_frontmatter: true
+
+title: Dante Calo's homepage
+description: Bookmark this to keep an eye on my project updates!  
