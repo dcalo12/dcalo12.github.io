@@ -27,10 +27,9 @@ github_username:  dcalo12
 # Build settings
 markdown: kramdown
 theme: minima
-plugins:
-  - jekyll-feed
 remote_theme: eecs485staff/primer-spec
 plugins:
+  - jekyll-feed
   - jekyll-remote-theme
   - jekyll-optional-front-matter
   - jekyll-readme-index
