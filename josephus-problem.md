@@ -1,7 +1,7 @@
 ---
 layout: spec
-latex: true
 ---
+latex: true
 title: "Personal Project: Josephus Problem"
 permalink: /josephus-problem
 
