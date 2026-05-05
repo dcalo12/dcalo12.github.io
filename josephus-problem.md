@@ -1,11 +1,7 @@
----
 layout: spec
 latex: true
 title: "Personal Project: Josephus Problem"
-
----
-
-permalink: /https://dcalo12.github.io/josephus-problem
+permalink: /josephus-problem
 
 # Personal Project: Josephus Problem
 
