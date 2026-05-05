@@ -38,6 +38,7 @@ plugins:
   - jemoji
 kramdown:
   input: GFM
+  math_engine: mathjax
 readme_index:
   remove_originals: true
   with_frontmatter: true
