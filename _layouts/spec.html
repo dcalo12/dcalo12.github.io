@@ -145,14 +145,6 @@ version_string: v1.10
         <script src="{{ base_url }}/assets/{{ layout.version_string }}/js/primer_spec_plugin.min.js" crossorigin="anonymous" defer></script>
 
         {%- if page.latex %}
-        <script>
-            window.MathJax = {
-                tex: {
-                  inlineMath: [['$', '$'], ['\\(', '\\)']],
-                  displayMath: [['$$', '$$'], ['\\[', '\\]']]
-                }
-            };
-        </script>
         <style>
             /**
              * To make MathJax CHTML scroll like other large Primer Spec
