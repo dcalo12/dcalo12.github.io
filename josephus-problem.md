@@ -1,9 +1,9 @@
----
 layout: spec
----
 latex: true
 title: "Personal Project: Josephus Problem"
 permalink: /josephus-problem
+
+{: .primer-spec-toc-ignore }
 
 # Personal Project: Josephus Problem
 
