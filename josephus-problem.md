@@ -104,10 +104,11 @@ int josephus_recursion(int n, int k);
 Use the recurrence relation:
 
 $$
+\[
 J(n, k) =
-\begin{cases}
-0 & n = 1 \\
-\big(J(n-1, k) + k\big) \bmod n & n > 1
+   \begin{cases}
+   0                               & \quad \text{if } n \text{ = 1}\\
+   \big(J(n-1, k) + k\big) \bmod n & \quad \text{if } n \text{ > 1}
 \end{cases}
 $$
 
